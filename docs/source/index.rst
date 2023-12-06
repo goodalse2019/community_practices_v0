@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to Physiopy's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to the main documentation site for the physiopy community and python package! Please also check out the package's `Github Page <https://github.com/physiopy/>`_. For questions, you can always contact the project manager at physiopy@gmail.com. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Who are we?
 --------
+We are the physiopy development team consisting of an international group of volunteers. You can learn more about us by visiting the :doc:`community/index` page. Contributions are also very much welcomed! Check out the :doc:`community/contributor-guide` tab.
 
-.. toctree::
-
-   usage
-   api
+What is the importance of physiological data collection and its impact on MRI?
+--------
+Physiological data provides the representation of the participant with respect to extension of bodily information (i.e., heart rates, respiratory rate, skin conductance etc.). Monitoring one's physiological activity helps us understand the percerption of cognition, emotion, motivation etc. Additionaly, physiological data is a key component in understanding physiological sources of signal variance in fMRI data. Collecting these data helps to provide more accurate models of fMRI time-series. It also provides a real-time method to monitor subjects during scanning. See the :doc:`best-practices` for recommendations from key personnel in the field on physiological data collection and analysis. 
