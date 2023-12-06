@@ -23,3 +23,7 @@ Physiological data provides the representation of the participant with respect t
    community
    OHBM 2023 tutorials
    faq
+
+.. toctree::
+   :hidden:
+   :name: hiddentoc
