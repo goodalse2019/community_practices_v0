@@ -18,11 +18,8 @@ Physiological data provides the representation of the participant with respect t
    :maxdepth: 2
    :caption: Contents:
 
-   libraries
    community practices
-   community
    OHBM 2023 tutorials
-   faq
 
 .. toctree::
    :hidden:
