@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Physiopy'
+copyright = '2023-" + datetime.today().strftime("%Y") + ", physiopy developers'
+author = 'physiopy developers'
 
 release = '0.1'
 version = '0.1.0'
