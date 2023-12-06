@@ -1,4 +1,4 @@
-Community Practice Recommendations from the Physiopy Community!
+Community Practice Recommendations for Physiological Data Recording in fMRI!
 ===================================
 
 Welcome to the main documentation site for the physiopy community! Please also check out the package's `Github Page <https://github.com/physiopy/>`_. For questions, you can always contact the project manager at physiopy@gmail.com. 
