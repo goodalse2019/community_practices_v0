@@ -1,7 +1,7 @@
-Welcome to Physiopy's documentation!
+Community Practice Recommendations from the Physiopy Community!
 ===================================
 
-Welcome to the main documentation site for the physiopy community and python package! Please also check out the package's `Github Page <https://github.com/physiopy/>`_. For questions, you can always contact the project manager at physiopy@gmail.com. 
+Welcome to the main documentation site for the physiopy community! Please also check out the package's `Github Page <https://github.com/physiopy/>`_. For questions, you can always contact the project manager at physiopy@gmail.com. 
 
 .. image:: https://github.com/physiopy/phys2bids/blob/master/docs/_static/physiopy_logo_1280x640.png
   :target: https://community-practices-v0.readthedocs.io/
