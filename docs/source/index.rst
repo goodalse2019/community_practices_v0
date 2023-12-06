@@ -3,6 +3,9 @@ Welcome to Physiopy's documentation!
 
 Welcome to the main documentation site for the physiopy community and python package! Please also check out the package's `Github Page <https://github.com/physiopy/>`_. For questions, you can always contact the project manager at physiopy@gmail.com. 
 
+.. image:: https://github.com/physiopy/phys2bids/blob/master/docs/_static/physiopy_logo_1280x640.png
+  :target: https://community-practices-v0.readthedocs.io/
+
 Who are we?
 --------
 We are the physiopy development team consisting of an international group of volunteers. You can learn more about us by visiting the :doc:`community/index` page. Contributions are also very much welcomed! Check out the :doc:`community/contributor-guide` tab.
