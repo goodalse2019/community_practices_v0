@@ -13,3 +13,13 @@ We are the physiopy development team consisting of an international group of vol
 What is the importance of physiological data collection and its impact on MRI?
 --------
 Physiological data provides the representation of the participant with respect to extension of bodily information (i.e., heart rates, respiratory rate, skin conductance etc.). Monitoring one's physiological activity helps us understand the percerption of cognition, emotion, motivation etc. Additionaly, physiological data is a key component in understanding physiological sources of signal variance in fMRI data. Collecting these data helps to provide more accurate models of fMRI time-series. It also provides a real-time method to monitor subjects during scanning. See the :doc:`best-practices` for recommendations from key personnel in the field on physiological data collection and analysis. 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   libraries
+   community practices
+   community
+   OHBM 2023 tutorials
+   faq
